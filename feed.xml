@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>coopstarter-guidebook</title>
+    <link href="https://coopstarter.github.io/IO4guidebook/feed.xml" rel="self" />
+    <link href="https://coopstarter.github.io/IO4guidebook" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
+    <author>
+        <name>Coopstarter Project</name>
+    </author>
+    <id>https://coopstarter.github.io/IO4guidebook</id>
+
+</feed>

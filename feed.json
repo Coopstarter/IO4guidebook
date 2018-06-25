@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "coopstarter-guidebook",
+    "description": "",
+    "home_page_url": "https://coopstarter.github.io/IO4guidebook",
+    "feed_url": "https://coopstarter.github.io/IO4guidebook/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Coopstarter Project"
+    },
+    "items": [
+    ]
+}
