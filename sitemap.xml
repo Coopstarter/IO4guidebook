@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://coopstarter.github.io/IO4guidebook/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://coopstarter.github.io/IO4guidebook/</loc>
+</url>
+<url>
+<loc>https://coopstarter.github.io/IO4guidebook/ANNEXES.html</loc>
+<lastmod>2018-09-03T17:54:45+02:00</lastmod>
+</url>
+<url>
+<loc>https://coopstarter.github.io/IO4guidebook/about-this-guidebook.html</loc>
+<lastmod>2018-09-03T16:54:24+02:00</lastmod>
+</url>
+<url>
+<loc>https://coopstarter.github.io/IO4guidebook/brick-after-brick.html</loc>
+<lastmod>2018-09-03T16:39:20+02:00</lastmod>
+</url>
+<url>
+<loc>https://coopstarter.github.io/IO4guidebook/generating-ideas-2.html</loc>
+<lastmod>2018-09-03T16:27:50+02:00</lastmod>
+</url>
+<url>
+<loc>https://coopstarter.github.io/IO4guidebook/the-basics.html</loc>
+<lastmod>2018-09-03T16:41:11+02:00</lastmod>
+</url>
+</urlset>

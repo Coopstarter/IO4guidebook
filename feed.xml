@@ -1,14 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Coopstarter Guidebook</title>
+    <title>coopstarter-guidebook</title>
     <link href="https://coopstarter.github.io/IO4guidebook/feed.xml" rel="self" />
     <link href="https://coopstarter.github.io/IO4guidebook" />
-    <updated>2018-12-20T21:58:28+01:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Coopstarter Project</name>
     </author>
     <id>https://coopstarter.github.io/IO4guidebook</id>
 
+    <entry>
+        <title>ANNEXES</title>
+        <author>
+            <name>Coopstarter Project</name>
+        </author>
+        <link href="https://coopstarter.github.io/IO4guidebook/ANNEXES.html"/>
+        <id>https://coopstarter.github.io/IO4guidebook/ANNEXES.html</id>
+
+        <updated>2021-02-16T13:17:33+01:00</updated>
+            <summary>
+                <![CDATA[
+                    ABOUT THIS GUIDEBOOK City Youth #Challenge: How to organize a co-working event for young people&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>ABOUT THIS GUIDEBOOK</p>
+<p><a href="..\media\files\IO3-ENG_final.pdf" target="_blank" rel="noopener noreferrer">City Youth #Challenge: How to organize a co-working event for young people - Gamified model to organize a two-day event on entrepreneurship - Manual</a></p>
+<p><a href="..\media\files\philagora_la-trousse-a-idees.pdf" target="_blank" rel="noopener noreferrer"> The ideas kit. Kit for animators to facilitate sessions of collective creativity - Guidebook</a></p>
+<p><a href="..\media\files\pablo_-_outils_de_facilitation.pdf" target="_blank" rel="noopener noreferrer">Facilitation tools and collective intelligence. Kit for animators to stimulate group dynamics and creativity into a large group - Guidebook</a></p>
+<p><a href="..\media\files\YFJ_MoneyGrowsOnTreesweb.pdf" target="_blank" rel="noopener noreferrer">Money Grows on Trees. Guidebook for the setting up of cooperatives by youth organizations</a></p>
+<p><a href="https://issuu.com/aegee-europe/docs/youropeneedsyou" target="_blank" rel="noopener noreferrer">YOUrope needs YOU!: presentation of a project focused on leadership skills</a></p>
+<p><a href="..\media\files\KE-BE-13-002-EN-N.pdf" target="_blank" rel="noopener noreferrer">Policy Brief on Access to Business Start-up Finance for Inclusive Entrepreneurship</a></p>
+<p><a href="https://issuu.com/aegee-europe/docs/europe_on_track" target="_blank" rel="noopener noreferrer">Europe on Track: Report from a EU project, providing youth EU recommendations on entrepreneurship </a></p>
+<p><a href="https://www.avise.org/ressources/kit-de-sensibilisation-success" target="_blank" rel="noopener noreferrer">Advocacy kit "SUCCESS!": Game to raise awareness about social entrepreneurship and cooperation - Guidebook</a></p>
+<p> </p>
+<p>THE BASICS</p>
+<p><a href="https://vimeo.com/61704030" target="_blank" rel="noopener noreferrer">The resilience of cooperatives to the crisis - Video</a></p>
+<p><a href="https://www.youtube.com/watch?v=90FL_bBE4mw" target="_blank" rel="noopener noreferrer">What is a co-operative?: Video providing basic understanding about coops</a></p>
+<p><a href="https://vimeo.com/189419510" target="_blank" rel="noopener noreferrer">Undertake together otherwise: Video presenting the cooperative model through experience sharing from entrepreneurs </a></p>
+<p><a href="https://www.youtube.com/watch ?v=tenKnIx4ouY" target="_blank" rel="noopener noreferrer">The electric cooperative story: Video on US energy cooperatives</a></p>
+<p><a href="https://kooperationen.dk/kooperativ er/hvad-er-kooperativer/" target="_blank" rel="noopener noreferrer">What is a cooperative?: Video to inspire young entrepreneurs and students, and inform them about coops </a></p>
+<p><a href="https://www.youtube.com/watch?v=CHBLhBMBcTg" target="_blank" rel="noopener noreferrer">Why a co-op?: Video to present the coop model to (potential) entrepreneurs</a></p>
+<p><a href="http://www.gurubogen.dk/om-bogen" target="_blank" rel="noopener noreferrer">The Guru Book</a></p>
+<p> </p>
+<p>GENERATING IDEAS</p>
+<p><a href="..\media\files\GUIDA_SC.pdf" target="_blank" rel="noopener noreferrer">CoopStartUp guide: Guide on starting up a cooperative </a></p>
+<p><a href="..\media\files\coopsuk_simplygovernance_webdownload_0_0.pdf" target="_blank" rel="noopener noreferrer">Simply Governance: Guidebook to set up an appropriate cooperative governance</a> </p>
+<p><a href="..\media\files\iCC-Foundation-Guide-Web-EN-1.0.pdf" target="_blank" rel="noopener noreferrer">iCareCoops - Foundation Guide: Guidebook for the setting up of care cooperatives</a></p>
+<p><a href="https://www.gimletmedia.com/startup" target="_blank" rel="noopener noreferrer">Start Up: Audio podcast as experience sharing from a US entrepreneur</a></p>
+<p> </p>
+<p>BRICK AFTER BRICK</p>
+<p><a href="..\media\files\simplystartup_0_0_0.PDF" target="_blank" rel="noopener noreferrer">Simply Start Up: Guidebook providing guidance for the setting up of cooperatives</a></p>
+<p><a href="..\media\files\essec_guide_businessplansocial.pdf" target="_blank" rel="noopener noreferrer">Social Business Plan: Guide to draft a social business plan, in order to put an idea into practice - Methodological guide</a></p>
+<p><a href="https://www.uk.coop/the-hive/setting-up-a-co-operative" target="_blank" rel="noopener noreferrer">The Hive - Setting up a co-operative: Webiste aimed at providing basic inf</a><a href="..\media\files\workersco-ops.pdf" target="_blank" rel="noopener noreferrer">ormation in the process of setting up a coop</a></p>
+<p><a href="..\media\files\workersco-ops.pdf" target="_blank" rel="noopener noreferrer">How to set up a workers' co-op: Guidebook for the setting up of coops in the UK</a> </p>
+<p><a href="..\media\files\Modello_PEF_Startup.xls" target="_blank" rel="noopener noreferrer">Busines Plan Spreadsheet: Excel template aimed at helping entrepreneurs to make their business plan</a></p>
+<p><a href="..\media\files\Startup_pianoimpresa.doc" target="_blank" rel="noopener noreferrer">Business Description Document: Word template aimed at helping entrepreneurs to present their business</a></p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>About this Guidebook</title>
         <author>
@@ -17,29 +70,25 @@
         <link href="https://coopstarter.github.io/IO4guidebook/about-this-guidebook.html"/>
         <id>https://coopstarter.github.io/IO4guidebook/about-this-guidebook.html</id>
 
-        <updated>2018-12-20T21:58:17+01:00</updated>
+        <updated>2021-02-16T13:17:33+01:00</updated>
             <summary>
                 <![CDATA[
-                    Who the manual is for – ambassador profilesThis Guidebook is aimed at cooperative ambassadors, i.e. young leaders who are interested in setting up their own community-based cooperative business. These coop&hellip;
+                    Who the manual is for – ambassador profilesThis Guidebook is aimed at cooperative ambassadors, i.e.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h2>Who the manual is for – ambassador profiles</h2>
-This Guidebook is aimed at cooperative ambassadors, i.e. young leaders who are interested in setting up their own community-based cooperative business. These coop ambassadors will already have a range of resources, expertise and networks, as well as a range of skills acquired through their activities as youth leaders (see how much you as an Ambassador are networked enough in Europe <a href="https://issuu.com/aegee-europe/docs/youropeneedsyou" target="_blank" rel="noopener noreferrer">here</a> - EN)<br><br>Coop ambassadors will typically be young people who have demonstrated experience in successfully designing, setting up and implementing youth projects and/or managing youth organisations, or they may simply be motivated to start up their own cooperative business. Coop ambassadors will also have gone through a specific training about cooperatives and how to mobilize a community around a cooperative concept during CoopStarter, a European project about cooperatives and youth entrepreneurship. Want to know more about what European Youth are looking for? Here's some <a href="https://issuu.com/aegee-europe/docs/europe_on_track" target="_blank" rel="noopener noreferrer">interesting insights</a> from a Europe-wide project (EN).<br>
+This Guidebook is aimed at cooperative ambassadors, i.e. young leaders who are interested in setting up their own community-based cooperative business. These coop ambassadors will already have a range of resources, expertise and networks, as well as a range of skills acquired through their activities as youth leaders (see how much you as an Ambassador are networked enough in EU <a href="https://issuu.com/aegee-europe/docs/youropeneedsyou" target="_blank" rel="noopener noreferrer">here</a> - EN)<br><br>Coop ambassadors will typically be young people (up to 30 y.o.) who have demonstrated experience in successfully designing, setting up and implementing youth projects and/or managing youth organisations, or they may simply be motivated to start up their own cooperative business. Coop ambassadors will also have gone through a specific training about cooperatives and how to mobilize a community around a cooperative concept during CoopStarter 2.0, a EU project about cooperatives and youth entrepreneurship. Want to know more about what European Youth are looking for? Here's some <a href="https://issuu.com/aegee-europe/docs/europe_on_track" target="_blank" rel="noopener noreferrer">interesting insights</a> from an EU-wide project (EN).<br>
 <h2>What the Guidebook is for and how it should be used</h2>
-This Guidebook is designed to be a resource for coop ambassadors, after they have gone through a specific training on cooperatives and have studied and acquired concepts through learning materials, such as the Manual provided during the training or <a href="media/files/YFJ_MoneyGrowsOnTreesweb.pdf" target="_blank" rel="noopener noreferrer">this very useful booklet</a> about cooperatives (EN). The Guidebook is meant to assist ambassadors in setting up and carry out local initiatives on cooperative entrepreneurship for young people (<a href="media/files/IO3-ENG_final.pdf" target="_blank" rel="noopener noreferrer">click here</a> to get inspired - EN or <a href="media/files/philagora_la-trousse-a-idees.pdf" target="_blank" rel="noopener noreferrer">here</a> - FR). After having learnt how to set up a cooperative business, through physical training sessions provided by mentors, they will have to transfer this knowledge and experience in their local territories. This Guidebook was created with this purpose: all resources available on cooperative entrepreneurship and support, compiled in CoopStarter, are here integrated in order to be used in the most appropriate way and for the most efficient purpose, during local events/initiatives.<br><br>This Guidebook gives coop ambassadors a step-by-step methodology to carry out local initiatives meant to mobilize young people in setting up a cooperative business. It also helps them to organise their time/sessions in the most efficient way, making sure that clear objectives are set out and accomplished during those sessions. <a href="media/files/pablo_-_outils_de_facilitation.pdf" target="_blank" rel="noopener noreferrer">Get inspired here</a>: how to get groups to work well together (FR). Plus, want to know more about startups and finance? <a href="../../../../media/files/KE-BE-13-002-EN-N.pdf" target="_blank" rel="noopener noreferrer">Here's something useful</a> (EN).<br>
+This Guidebook is designed to be a resource for coop ambassadors, after they have gone through a specific training on cooperatives and have studied and acquired concepts through learning materials, such as the Manual provided during the training or <a href="..\media\files\YFJ_MoneyGrowsOnTreesweb.pdf" target="_blank" rel="noopener noreferrer">this very useful booklet</a> about cooperatives (EN). The Guidebook is meant to assist ambassadors in setting up and carry out local initiatives on cooperative entrepreneurship for young people (<a href="..\media\files\IO3-ENG_final.pdf" target="_blank" rel="noopener noreferrer">click here</a> to get inspired - EN or <a href="..\media\files\philagora_la-trousse-a-idees.pdf" target="_blank" rel="noopener noreferrer">here</a> - FR). After having learnt how to set up a cooperative business, through physical training sessions provided by mentors, they will have to transfer this knowledge and experience in their local territories. This Guidebook was created with this purpose: all resources available on cooperative entrepreneurship and support, compiled in CoopStarter 2.0, are here integrated in order to be used in the most appropriate way and for the most efficient purpose, during local events/initiatives.<br><br>This Guidebook gives coop ambassadors a step-by-step methodology to carry out local initiatives meant to mobilize young people in setting up a cooperative business. It also helps them to organise their time/sessions in the most efficient way, making sure that clear objectives are set out and accomplished during those sessions. <a href="..\media\files\pablo_-_outils_de_facilitation.pdf" target="_blank" rel="noopener noreferrer">Get inspired here</a>: how to get groups to work well together (FR). Plus, want to know more about startups and finance? <a href="..\media\files\KE-BE-13-002-EN-N.pdf" target="_blank" rel="noopener noreferrer">Here's something useful</a> (EN).<br>
 <h2>What’s in the different sections of the Guidebook?</h2>
 The manual has been developed in three sections:
 <ul>
-<li><a href="#INTERNAL_LINK#/post/11">LET'S COOPERATE</a> introducing cooperative principles: this part explains how to run a session on how to get young people to think about a business run in a cooperative form.</li>
-<li><a href="#INTERNAL_LINK#/post/12">COOPSTARTER HACKATON</a>: this part explains how to run a session on how to go from a business idea to the planning of a cooperative, which will be realising that idea and making it sustainable in time.</li>
-<li><a href="#INTERNAL_LINK#/post/13">LET'S START FOR REAL</a> making the cooperative a strong and stable house: this part explains how to run a session on business planning of a cooperative, making young potential entrepreneur understand how to start the path to building a coop business.</li>
-<li><a href="#INTERNAL_LINK#/post/15">ANNEXES</a>: in this section, all resources used in the above three seminars/workshops are listed, including a main reference to this Guidebook, which is the booklet “Money Grows on Trees”.</li>
-</ul>
-<p> </p>
-<p>Each section grows in complexity, starting from basic cooperative principles to compiling a business plan for a cooperative enterprise.<br>Each activity described in the manual is explained through the same scheme:</p>
-<ul>
+<li><a href="https://coopstarter.github.io/IO4guidebook/the-basics.html">THE BASICS</a> introducing cooperative principles: this part explains how to run a session on how to get young people to think about a business run in a cooperative form.</li>
+<li><a href="https://coopstarter.github.io/IO4guidebook/generating-ideas-2.html">GENERATING IDEAS</a>: this part explains how to run a session on how to go from a business idea to the planning of a cooperative, which will be realising that idea and making it sustainable in time.</li>
+<li><a href="https://coopstarter.github.io/IO4guidebook/brick-after-brick.html">BRICK AFTER BRICK</a> making the cooperative a strong and stable house: this part explains how to run a session on business planning of a cooperative, making young potential entrepreneur understand how to start the path to building a coop business.</li>
+<li>ANNEXES: in this section, all resources used in the above three seminars/workshops are listed, including a main reference to this Guidebook, which is the booklet “Money Grows on Trees”.<br>Each section grows in complexity, starting from basic cooperative principles to compiling a business plan for a cooperative enterprise.<br>Each activity described in the manual is explained through the same scheme:</li>
 <li>OBJECTIVE (of the activity described)</li>
 <li>HOW TO USE IT + KEY QUESTIONS (related to the activity proposed)</li>
 <li>PROCESS (describe how to set up the activity, what you need to gather as resources, how and where to organize such an activity)</li>
@@ -52,36 +101,168 @@ Other resources connected to this project that you will find useful are:
 <li>"Young leaders, cooperative entrepreneurs" report <br>This report outlines the context for youth entrepreneurship activities across the EU as well as showcasing case studies for inspiring ambassadors with their own cooperative start-ups.</li>
 <li>Manual for ambassadors<br>This learning material is aimed at young leaders who are interested in setting up their own community-based cooperative business. These coop ambassadors will already have a range of resources, expertise and networks, as well as a range of skills acquired through their activities as youth leaders.</li>
 <li>Training tools for mentors<br>These tools aim to enable mentors to support and up-skill ambassadors by providing resources in the form of practical training methods and tools. It will also help give ambassadors a deeper understanding of the cooperative economy.</li>
-<li><a href="https://www.avise.org/ressources/kit-de-sensibilisation-success" target="_blank" rel="noopener noreferrer">Take a look at this resource on avise.org</a> (FR) if you want to play with other models to carry out group work around the principles of solidarity economy.</li>
+<li><a href="https://www.avise.org/ressources/kit-de-sensibilisation-success" target="_blank" rel="noopener noreferrer">Take a look at this instrument</a> (FR) if you want to play with other models to carry out group work around the principles of solidarity economy.</li>
 </ul>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>1. LET&#x27;S COOPERATE</title>
+        <title>BRICK AFTER BRICK</title>
+        <author>
+            <name>Coopstarter Project</name>
+        </author>
+        <link href="https://coopstarter.github.io/IO4guidebook/brick-after-brick.html"/>
+        <id>https://coopstarter.github.io/IO4guidebook/brick-after-brick.html</id>
+
+        <updated>2021-02-16T13:17:33+01:00</updated>
+            <summary>
+                <![CDATA[
+                    making the cooperative a strong and stable house OBJECTIVE HOW TO USE IT 1 explanation&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="msg msg--info"><strong>making the cooperative a strong and stable house</strong></p>
+<p>OBJECTIVE</p>
+<ul>
+<li>Analyse weaknesses and risks associated to a startup business</li>
+<li>Make participants understand the value of networks and support systems</li>
+<li>Make participants aware of cooperative legal framework</li>
+</ul>
+<p> </p>
+<p>HOW TO USE IT<br>1 explanation at the board + 1 group exercise + 1 lecturer/guest expert in local cooperative legal forms + 1 podcast to listen to outside the workshop (<a href="https://www.gimletmedia.com/startup/dear-music-fans-season-3-episode-4#episode-player" target="_blank" rel="noopener noreferrer">here it is</a> - EN)</p>
+<p>KEY QUESTIONS</p>
+<ul>
+<li>Which areas of my coop business need external support? see if the groups are familiar with budgets through this <a href="..\media\files\Modello_PEF_Startup.xls" target="_blank" rel="noopener noreferrer">financial and economic planning instrument</a> (IT) and this <a href="..\media\files\Startup_pianoimpresa.doc" target="_blank" rel="noopener noreferrer">business planning instrument</a> (IT)</li>
+<li>Which support systems exist in my local area?</li>
+<li>What kind of support is best suited for my members and my coop?</li>
+<li>How does a company get incorporated? Please <a href="https://www.uk.coop/the-hive/setting-up-a-co-operative" target="_blank" rel="noopener noreferrer">check here</a> to gather some useful info on this topic (EN)</li>
+<li>What is it needed to establish a company? <a href="..\media\files\essec_guide_businessplansocial.pdf" target="_blank" rel="noopener noreferrer">Check this document</a> to get inspired (FR)</li>
+<li>How can the members of a coop establish a coop formally?</li>
+</ul>
+<p>PROCESS<br>1. Have everyone sit in circle + Set out a whiteboard with markers, draw a sample of the Map of Needs and Resources around the Business Model Canvas and explain how to build it by analyzing areas of weakness and risk that need external support – it has to be a graphic Map with real names of people/institutions who can represent the support structure for the starting coop business</p>
+<p>2. Divide group into smaller 3-persons groups shuffled from last time + Have them work on the Map of Needs and Resources + Provide and explain Key Questions + Have them present their Map to the bigger group (refer to MGT Step 5 Contact a business support structure pg. 21) + have everyone vote on best Map + give out first prize to the winning group (star made of coloured paper)</p>
+<p>3. Keep the 3-persons group + give instructions to prepare 1 question for each group for the expert guest on cooperative legal forms + have guest give lecture/talk + have them pose questions + have each group set out a plan for founding the cooperative + run general feedback phase + Have them listen to Startup podcast 5 episodes as homework</p>
+<p>DURATION<br>15 minutes feedback from podcast + 25 minutes explanation of Map of Needs and Resources</p>
+<p>15 minutes explanation of Key Questions + 30 minutes group work on Map of Needs and Resources + 7 minutes each group to present their Map + 10 minutes voting and awards+ 10 minutes general feedback from ambassador</p>
+<p>BREAK (10 minutes)</p>
+<p>30 minutes talk with legal framework local expert + 30 minutes of Q&amp;A + 20 minutes for group work on planning the legal framework + 10 minutes general feedback from ambassador</p>
+<br>
+<p>EXPECTED RESULTS</p>
+<ol>
+<li>Participants understand the need for further support and start selecting options</li>
+<li>Participants understand which type of legal framework their potential business could belong to</li>
+<li>Participants consider the reality of starting up a business</li>
+</ol>
+<p> </p>
+<p>RESOURCES NEEDED</p>
+<ul>
+<li>1 whiteboard + markers + large sheets of paper for mapping over BMC</li>
+<li>Sheets of coloured paper + scissors + tape</li>
+<li>Tables or mats to carry out group work</li>
+<li>Large print out of BMC to tape to a wall</li>
+<li>Mobile phone to show how to use podcasts</li>
+<li>Small post it notepads to collect questions for the expert</li>
+<li>A look at this <a href="..\media\files\simplystartup_0_0_0.pdf" target="_blank" rel="noopener noreferrer">Guide</a> (EN)</li>
+<li>A look at this other <a href="..\media\files\workersco-ops.pdf" target="_blank" rel="noopener noreferrer">Guidebook</a> about Workers' coops (EN)</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>GENERATING IDEAS</title>
+        <author>
+            <name>Coopstarter Project</name>
+        </author>
+        <link href="https://coopstarter.github.io/IO4guidebook/generating-ideas-2.html"/>
+        <id>https://coopstarter.github.io/IO4guidebook/generating-ideas-2.html</id>
+
+        <updated>2021-02-16T13:17:33+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Defining the coop business OBJECTIVE HOW TO USE IT 1 explanation at the board +&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="msg msg--info">Defining the coop business</p>
+<p>OBJECTIVE</p>
+<ul>
+<li>Getting deeper into their coop business ideas and define the business better</li>
+<li>Make participants more aware of work needed to set up a business</li>
+<li>Make participants understand what it it takes to make collective decisions</li>
+</ul>
+<p>HOW TO USE IT</p>
+<p>1 explanation at the board + 2 group exercises + 1 podcast to listen to outside the workshop</p>
+<p><br>KEY QUESTIONS</p>
+<ul>
+<li>What exactly do I need to define in order to set up a coop business? <a href="..\media\files\GUIDA_SC.pdf" target="_blank" rel="noopener noreferrer">Check this Guide for further help</a> (IT)</li>
+<li>What are the areas of relevance in mapping the coop business?</li>
+<li>What is the best way to get to a map/canvas if we have to decide all</li>
+<li>together?</li>
+<li>See questions tied to BMC</li>
+<li>How do we decide who is going to do what within the coop business?</li>
+<li>How much money do you think will go around your coop business?</li>
+</ul>
+<p>PROCESS</p>
+<ol>
+<li>Have everyone sit in circle + Set out a whiteboard with markers, ask circle to give feedback about podcast + provide definition of Business Model Canvas and explain how it works by showing projection</li>
+<li>Divide group into smaller 3-persons groups shuffled from last time + Have them work on the business ideas from previous exercise building the Canvas+ Provide and explain Key Questions + Have them present their BMC to the bigger group (refer to MGT Step 3 Generating business ideas pg. 19) + have everyone vote on best BMC + give out first prize to the winning group (star made of coloured paper)</li>
+<li>Keep the 3-persons group + give instructions for the next exercise, i.e.: create the internal organization, who is going to do what according to which criteria + have them explain the internal organization to the bigger group (refer to MGT Step 4 Planning the business pg.20) + have them listen to Startup podcast 5 episodes as homework (<a href="https://www.gimletmedia.com/startup/origin-story-season-2-1-2-3-4#episode-player" target="_blank" rel="noopener noreferrer">here's</a> the podcast - EN) - refer to this <a href="..\media\files\coopsuk_simplygovernance_webdownload_0_0.pdf" target="_blank" rel="noopener noreferrer">Guidebook</a> for further knowledge on the theme (EN)</li>
+</ol>
+<p>DURATION</p>
+<ul>
+<li>15 minutes feedback from podcast + 25 minutes explanation of BMC</li>
+<li>15 minutes explanation of Key Questions + 60 minutes group work on BMC + 7 minutes each group to present their BMC + 10 minutes voting and awards+ 10 minutes general feedback from ambassador</li>
+</ul>
+<p>BREAK (10 minutes)</p>
+<ul>
+<li>5 minutes explanation of Key Questions related to group dynamics + 60 minutes group work on internal organization + 7 minutes each group to present their internal plan + 10 minutes general feedback from ambassadors</li>
+</ul>
+<br>
+<p>EXPECTED RESULTS</p>
+<ol>
+<li>Participants understand the complexity of a (cooperative) business</li>
+<li>Participants understand how to face organizational issues within a cooperative business</li>
+<li>Participants learn how to build a budget starting from a clear organization of the business, hence they are ready to delve into business planning</li>
+</ol>
+<p>RESOURCES NEEDED</p>
+<ul>
+<li>1 whiteboard + markers + large sheets of paper</li>
+<li>Sheets of coloured paper + scissors + tape</li>
+<li>Tables or mats to carry out group work</li>
+<li>Large print out of BMC to tape to a wall</li>
+<li>Mobile phone to show how to use podcasts</li>
+<li>Having had a look at this <a href="..\media\files\iCC-Foundation-Guide-Web-EN-1.0.pdf" target="_blank" rel="noopener noreferrer">Guide for care cooperatives</a> in case groups were interested in this sector (EN)</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>THE BASICS </title>
         <author>
             <name>Coopstarter Project</name>
         </author>
         <link href="https://coopstarter.github.io/IO4guidebook/the-basics.html"/>
         <id>https://coopstarter.github.io/IO4guidebook/the-basics.html</id>
 
-        <updated>2018-12-18T11:13:04+01:00</updated>
+        <updated>2021-02-16T13:17:33+01:00</updated>
             <summary>
                 <![CDATA[
-                    introducing cooperative principles Explanation at the board + 1 short video projection (if you speak Greek, check this video or this one if you speak Danish) + 2 group exercises +&hellip;
+                    introducing cooperative principles OBJECTIVE HOW TO USE IT Explanation at the board + 1 short&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p class="msg msg--info"><strong>introducing cooperative principles</strong></p>
-<h3>OBJECTIVE</h3>
+<p>OBJECTIVE</p>
 <ul>
 <li>Explain what makes cooperative businesses different than other businesses</li>
 <li>Make participants think about business activities that could be run through a cooperative form</li>
 </ul>
-<h3>HOW TO USE IT</h3>
+<p>HOW TO USE IT</p>
 <p>Explanation at the board + 1 short video projection (if you speak Greek, check this <a href="https://vimeo.com/61704030" target="_blank" rel="noopener noreferrer">video</a> or <a href="https://kooperationen.dk/kooperativer/hvad-er-kooperativer/" target="_blank" rel="noopener noreferrer">this one</a> if you speak Danish) + 2 group exercises + 1 podcast to listen to outside the workshop</p>
-<h3>KEY QUESTIONS</h3>
+<p>KEY QUESTIONS</p>
 <ul>
 <li>How is a coop different than other businesses? <a href="https://www.youtube.com/watch?v=90FL_bBE4mw" target="_blank" rel="noopener noreferrer">Click here to get an idea</a> (EN) or <a href="https://vimeo.com/189419510" target="_blank" rel="noopener noreferrer">here</a> (FR)</li>
 <li>What is the mission of your coop?</li>
@@ -91,13 +272,13 @@ Other resources connected to this project that you will find useful are:
 <li>How is your coop innovative?</li>
 <li>Why will your coop be relevant to young people? <a href="https://www.youtube.com/watch?v=CHBLhBMBcTg" target="_blank" rel="noopener noreferrer">Check out this video</a> to see if it might be useful for this question (FR)</li>
 </ul>
-<h3>PROCESS</h3>
+<p>PROCESS</p>
 <ol>
 <li>Have everyone sit in circle + Set out a whiteboard with markers, ask circle to provide definition of coop, write out key words on board + Write out definition of coop + Fill out table on pg. 9 of MGT all together + show short video about cooperative principles (click <a href="https://www.youtube.com/watch?v=tenKnIx4ouY" target="_blank" rel="noopener noreferrer">here</a> for NRECA video and <a href="https://www.youtube.com/watch?v=90FL_bBE4mw" target="_blank" rel="noopener noreferrer">here</a> for CoopUK video)</li>
 <li>Divide group into smaller 3-persons groups + Have them pick a business idea to develop into a cooperative + Provide and explain Key Questions + Have them present their coop to the bigger group (refer to MGT Step 1 Identifying needs pg. 17) + have everyone vote on best coop idea + give out first prize to the winning group (star made of coloured paper)</li>
 <li>Keep the 3-persons group + give instructions for the next exercise, i.e.: create a 5 minute pitch about raising members of your new coop, the pitch should explain the coop, provide an identikit of the member + define where and how you could give your pitch out + have them give the pitch to the bigger group (refer to MGT Motivating and including members pg.18) + have them listen to Startup podcast 5 episodes as homework</li>
 </ol>
-<h3>DURATION</h3>
+<p>DURATION</p>
 <ul>
 <li>5 minutes brainstorming + 10 minutes explanation</li>
 <li>10 minutes to explain key questions + 20 minutes for group work + 5 minutes each group to present their coop to the bigger group + 10 minutes voting and awards + 10 minutes general feedback from ambassador</li>
@@ -106,14 +287,14 @@ Other resources connected to this project that you will find useful are:
 <ul>
 <li>10 minutes to provide instructions for pitch creation + 30 minutes for group work + 5 minutes each group to give out pitch + 10 minutes general feedback from ambassador</li>
 </ul>
-<h3>EXPECTED RESULTS</h3>
+<p>EXPECTED RESULTS</p>
 <ol>
 <li>Participants understand the cooperative principles and peculiarity of the business</li>
 <li>Participants understand how a coop could function in the market</li>
 <li>Participants understand the key role people play in coops</li>
 <li>Participants are ready to delve into business planning</li>
 </ol>
-<h3>RESOURCES NEEDED</h3>
+<p>RESOURCES NEEDED</p>
 <ul>
 <li>1 whiteboard + markers + large sheets of paper</li>
 <li>Sheets of coloured paper + scissors + tape</li>
@@ -121,201 +302,6 @@ Other resources connected to this project that you will find useful are:
 <li>Video player of some sort to show short video</li>
 <li>Mobile phone to show how to use podcasts</li>
 </ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>2. COOPSTARTER HACKATON</title>
-        <author>
-            <name>Coopstarter Project</name>
-        </author>
-        <link href="https://coopstarter.github.io/IO4guidebook/generating-ideas-2.html"/>
-        <id>https://coopstarter.github.io/IO4guidebook/generating-ideas-2.html</id>
-
-        <updated>2018-12-18T11:13:14+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Defining the coop business 1 explanation at the board + 2 group exercises + 1 podcast to listen to outside the workshopKEY QUESTIONSWhat exactly do I need to define in&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="msg msg--info">Defining the coop business</p>
-<h3>OBJECTIVE</h3>
-<ul>
-<li>Getting deeper into their coop business ideas and define the business better</li>
-<li>Make participants more aware of work needed to set up a business</li>
-<li>Make participants understand what it it takes to make collective decisions</li>
-</ul>
-<h3>HOW TO USE IT</h3>
-<p>1 explanation at the board + 2 group exercises + 1 podcast to listen to outside the workshop</p>
-<h3>KEY QUESTIONS</h3>
-<ul>
-<li>What exactly do I need to define in order to set up a coop business? <a href="media/files/GUIDA_SC.pdf" target="_blank" rel="noopener noreferrer">Check this Guide for further help</a> (IT)</li>
-<li>What are the areas of relevance in mapping the coop business?</li>
-<li>What is the best way to get to a map/canvas if we have to decide all</li>
-<li>together?</li>
-<li>See questions tied to BMC</li>
-<li>How do we decide who is going to do what within the coop business?</li>
-<li>How much money do you think will go around your coop business?</li>
-</ul>
-<h3>PROCESS</h3>
-<ol>
-<li>Have everyone sit in circle + Set out a whiteboard with markers, ask circle to give feedback about podcast + provide definition of Business Model Canvas and explain how it works by showing projection</li>
-<li>Divide group into smaller 3-persons groups shuffled from last time + Have them work on the business ideas from previous exercise building the Canvas+ Provide and explain Key Questions + Have them present their BMC to the bigger group (refer to MGT Step 3 Generating business ideas pg. 19) + have everyone vote on best BMC + give out first prize to the winning group (star made of coloured paper)</li>
-<li>Keep the 3-persons group + give instructions for the next exercise, i.e.: create the internal organization, who is going to do what according to which criteria + have them explain the internal organization to the bigger group (refer to MGT Step 4 Planning the business pg.20) + have them listen to Startup podcast 5 episodes as homework (<a href="https://www.gimletmedia.com/startup/origin-story-season-2-1-2-3-4#episode-player" target="_blank" rel="noopener noreferrer">here's</a> the podcast - EN) - refer to this <a href="media/files/coopsuk_simplygovernance_webdownload_0_0.pdf" target="_blank" rel="noopener noreferrer">Guidebook</a> for further knowledge on the theme (EN)</li>
-</ol>
-<h3>DURATION</h3>
-<ul>
-<li>15 minutes feedback from podcast + 25 minutes explanation of BMC</li>
-<li>15 minutes explanation of Key Questions + 60 minutes group work on BMC + 7 minutes each group to present their BMC + 10 minutes voting and awards+ 10 minutes general feedback from ambassador</li>
-</ul>
-<h3>BREAK (10 minutes)</h3>
-<ul>
-<li>5 minutes explanation of Key Questions related to group dynamics + 60 minutes group work on internal organization + 7 minutes each group to present their internal plan + 10 minutes general feedback from ambassadors</li>
-</ul>
-<h3>EXPECTED RESULTS</h3>
-<ol>
-<li>Participants understand the complexity of a (cooperative) business</li>
-<li>Participants understand how to face organizational issues within a cooperative business</li>
-<li>Participants learn how to build a budget starting from a clear organization of the business, hence they are ready to delve into business planning</li>
-</ol>
-<h3>RESOURCES NEEDED</h3>
-<ul>
-<li>1 whiteboard + markers + large sheets of paper</li>
-<li>Sheets of coloured paper + scissors + tape</li>
-<li>Tables or mats to carry out group work</li>
-<li>Large print out of BMC to tape to a wall</li>
-<li>Mobile phone to show how to use podcasts</li>
-<li>Having had a look at this <a href="media/files/iCC-Foundation-Guide-Web-EN-1.0.pdf" target="_blank" rel="noopener noreferrer">Guide for care cooperatives</a> in case groups were interested in this sector (EN)</li>
-</ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>3. LET&#x27;S START FOR REAL</title>
-        <author>
-            <name>Coopstarter Project</name>
-        </author>
-        <link href="https://coopstarter.github.io/IO4guidebook/brick-after-brick.html"/>
-        <id>https://coopstarter.github.io/IO4guidebook/brick-after-brick.html</id>
-
-        <updated>2018-12-18T11:13:23+01:00</updated>
-            <summary>
-                <![CDATA[
-                    making the cooperative a strong and stable house 1 explanation at the board + 1 group exercise + 1 lecturer/guest expert in local cooperative legal forms + 1 podcast to&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="msg msg--info"><strong>making the cooperative a strong and stable house</strong></p>
-<h3>OBJECTIVE</h3>
-<ul>
-<li>Analyse weaknesses and risks associated to a startup business</li>
-<li>Make participants understand the value of networks and support systems</li>
-<li>Make participants aware of cooperative legal framework</li>
-</ul>
-<h3>HOW TO USE IT</h3>
-<p>1 explanation at the board + 1 group exercise + 1 lecturer/guest expert in local cooperative legal forms + 1 podcast to listen to outside the workshop (<a href="https://www.gimletmedia.com/startup/dear-music-fans-season-3-episode-4#episode-player" target="_blank" rel="noopener noreferrer">here it is</a> - EN)</p>
-<h3>KEY QUESTIONS</h3>
-<ul>
-<li>Which areas of my coop business need external support? see if the groups are familiar with budgets through this <a href="media/files/Modello_PEF_Startup.xls" target="_blank" rel="noopener noreferrer">financial and economic planning instrument</a> (IT) and this <a href="media/files/Startup_pianoimpresa.doc" target="_blank" rel="noopener noreferrer">business planning instrument</a> (IT)</li>
-<li>Which support systems exist in my local area?</li>
-<li>What kind of support is best suited for my members and my coop?</li>
-<li>How does a company get incorporated? Please <a href="https://www.uk.coop/the-hive/setting-up-a-co-operative" target="_blank" rel="noopener noreferrer">check here</a> to gather some useful info on this topic (EN)</li>
-<li>What is it needed to establish a company? <a href="media/files/essec_guide_businessplansocial.pdf" target="_blank" rel="noopener noreferrer">Check this document</a> to get inspired (FR)</li>
-<li>How can the members of a coop establish a coop formally?</li>
-</ul>
-<h3>PROCESS</h3>
-<ol>
-<li style="list-style-type: none;">
-<ol>
-<li>Have everyone sit in circle + Set out a whiteboard with markers, draw a sample of the Map of Needs and Resources around the Business Model Canvas and explain how to build it by analyzing areas of weakness and risk that need external support – it has to be a graphic Map with real names of people/institutions who can represent the support structure for the starting coop business</li>
-<li>2. Divide group into smaller 3-persons groups shuffled from last time + Have them work on the Map of Needs and Resources + Provide and explain Key Questions + Have them present their Map to the bigger group (refer to MGT Step 5 Contact a business support structure pg. 21) + have everyone vote on best Map + give out first prize to the winning group (star made of coloured paper)</li>
-<li>3. Keep the 3-persons group + give instructions to prepare 1 question for each group for the expert guest on cooperative legal forms + have guest give lecture/talk + have them pose questions + have each group set out a plan for founding the cooperative + run general feedback phase + Have them listen to Startup podcast 5 episodes as homework</li>
-</ol>
-</li>
-</ol>
-<h3>DURATION</h3>
-<p>15 minutes feedback from podcast + 25 minutes explanation of Map of Needs and Resources</p>
-<p>15 minutes explanation of Key Questions + 30 minutes group work on Map of Needs and Resources + 7 minutes each group to present their Map + 10 minutes voting and awards+ 10 minutes general feedback from ambassador</p>
-<p>BREAK (10 minutes)</p>
-<p>30 minutes talk with legal framework local expert + 30 minutes of Q&amp;A + 20 minutes for group work on planning the legal framework + 10 minutes general feedback from ambassador</p>
-<h3>EXPECTED RESULTS</h3>
-<ol>
-<li style="list-style-type: none;">
-<ol>
-<li style="list-style-type: none;">
-<ol>
-<li>Participants understand the need for further support and start selecting options</li>
-<li>Participants understand which type of legal framework their potential business could belong to</li>
-<li>Participants consider the reality of starting up a business</li>
-</ol>
-</li>
-</ol>
-</li>
-</ol>
-<h3>RESOURCES NEEDED</h3>
-<ul>
-<li>1 whiteboard + markers + large sheets of paper for mapping over BMC</li>
-<li>Sheets of coloured paper + scissors + tape</li>
-<li>Tables or mats to carry out group work</li>
-<li>Large print out of BMC to tape to a wall</li>
-<li>Mobile phone to show how to use podcasts</li>
-<li>Small post it notepads to collect questions for the expert</li>
-<li>A look at this <a href="media/files/simplystartup_0_0_0.pdf" target="_blank" rel="noopener noreferrer">Guide</a> (EN)</li>
-<li>A look at this other <a href="media/files/workersco-ops.pdf" target="_blank" rel="noopener noreferrer">Guidebook</a> about Workers' coops (EN)</li>
-</ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>4. ANNEXES</title>
-        <author>
-            <name>Coopstarter Project</name>
-        </author>
-        <link href="https://coopstarter.github.io/IO4guidebook/annexes.html"/>
-        <id>https://coopstarter.github.io/IO4guidebook/annexes.html</id>
-
-        <updated>2018-12-20T21:53:56+01:00</updated>
-            <summary>
-                <![CDATA[
-                    ABOUT THIS GUIDEBOOK City Youth #Challenge: How to organize a co-working event for young people - Gamified model to organize a two-day event on entrepreneurship - Manual The ideas kit. Kit for&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h3>ABOUT THIS GUIDEBOOK </h3>
-<p><a href="media/files/IO3-ENG_final.pdf" target="_blank" rel="noopener noreferrer">City Youth #Challenge: How to organize a co-working event for young people - Gamified model to organize a two-day event on entrepreneurship - Manual</a></p>
-<p><a href="media/files/philagora_la-trousse-a-idees.pdf" target="_blank" rel="noopener noreferrer"> The ideas kit. Kit for animators to facilitate sessions of collective creativity - Guidebook</a></p>
-<p><a href="media/files/pablo_-_outils_de_facilitation.pdf" target="_blank" rel="noopener noreferrer">Facilitation tools and collective intelligence. Kit for animators to stimulate group dynamics and creativity into a large group - Guidebook</a></p>
-<p><a href="media/files/YFJ_MoneyGrowsOnTreesweb.pdf" target="_blank" rel="noopener noreferrer">Money Grows on Trees. Guidebook for the setting up of cooperatives by youth organizations</a></p>
-<p><a href="https://issuu.com/aegee-europe/docs/youropeneedsyou" target="_blank" rel="noopener noreferrer">YOUrope needs YOU!: presentation of a project focused on leadership skills</a></p>
-<p><a href="media/files/KE-BE-13-002-EN-N.pdf" target="_blank" rel="noopener noreferrer">Policy Brief on Access to Business Start-up Finance for Inclusive Entrepreneurship</a></p>
-<p><a href="https://issuu.com/aegee-europe/docs/europe_on_track" target="_blank" rel="noopener noreferrer">Europe on Track: Report from a EU project, providing youth EU recommendations on entrepreneurship </a></p>
-<p><a href="https://www.avise.org/ressources/kit-de-sensibilisation-success" target="_blank" rel="noopener noreferrer">Advocacy kit "SUCCESS!": Game to raise awareness about social entrepreneurship and cooperation - Guidebook</a></p>
-<h3>LET'S COOPERATE</h3>
-<p><a href="https://vimeo.com/61704030" target="_blank" rel="noopener noreferrer">The resilience of cooperatives to the crisis - Video</a></p>
-<p><a href="https://www.youtube.com/watch?v=90FL_bBE4mw" target="_blank" rel="noopener noreferrer">What is a co-operative?: Video providing basic understanding about coops</a></p>
-<p><a href="https://vimeo.com/189419510" target="_blank" rel="noopener noreferrer">Undertake together otherwise: Video presenting the cooperative model through experience sharing from entrepreneurs </a></p>
-<p><a href="https://www.youtube.com/watch ?v=tenKnIx4ouY" target="_blank" rel="noopener noreferrer">The electric cooperative story: Video on US energy cooperatives</a></p>
-<p><a href="https://kooperationen.dk/kooperativ er/hvad-er-kooperativer/" target="_blank" rel="noopener noreferrer">What is a cooperative?: Video to inspire young entrepreneurs and students, and inform them about coops </a></p>
-<p><a href="https://www.youtube.com/watch?v=CHBLhBMBcTg" target="_blank" rel="noopener noreferrer">Why a co-op?: Video to present the coop model to (potential) entrepreneurs</a></p>
-<p><a href="http://www.gurubogen.dk/om-bogen" target="_blank" rel="noopener noreferrer">The Guru Book</a></p>
-<p> </p>
-<h3>COOPSTARTER HACKATON</h3>
-<p><a href="media/files/GUIDA_SC.pdf" target="_blank" rel="noopener noreferrer">CoopStartUp guide: Guide on starting up a cooperative </a></p>
-<p><a href="media/files/coopsuk_simplygovernance_webdownload_0_0.pdf" target="_blank" rel="noopener noreferrer">Simply Governance: Guidebook to set up an appropriate cooperative governance</a> </p>
-<p><a href="media/files/iCC-Foundation-Guide-Web-EN-1.0.pdf" target="_blank" rel="noopener noreferrer">iCareCoops - Foundation Guide: Guidebook for the setting up of care cooperatives</a></p>
-<p><a href="https://www.gimletmedia.com/startup" target="_blank" rel="noopener noreferrer">Start Up: Audio podcast as experience sharing from a US entrepreneur</a></p>
-<p> </p>
-<h3>LET'S START FOR REAL</h3>
-<p><a href="media/files/simplystartup_0_0_0.PDF" target="_blank" rel="noopener noreferrer">Simply Start Up: Guidebook providing guidance for the setting up of cooperatives</a></p>
-<p><a href="media/files/essec_guide_businessplansocial.pdf" target="_blank" rel="noopener noreferrer">Social Business Plan: Guide to draft a social business plan, in order to put an idea into practice - Methodological guide</a></p>
-<p><a href="https://www.uk.coop/the-hive/setting-up-a-co-operative" target="_blank" rel="noopener noreferrer">The Hive - Setting up a co-operative: Website aimed at providing basic information in the process of setting up a coop</a></p>
-<p><a href="media/files/workersco-ops.pdf" target="_blank" rel="noopener noreferrer">How to set up a workers' co-op: Guidebook for the setting up of coops in the UK</a> </p>
-<p><a href="media/files/Modello_PEF_Startup.xls" target="_blank" rel="noopener noreferrer">Busines Plan Spreadsheet: Excel template aimed at helping entrepreneurs to make their business plan</a></p>
-<p><a href="media/files/Startup_pianoimpresa.doc" target="_blank" rel="noopener noreferrer">Business Description Document: Word template aimed at helping entrepreneurs to present their business</a></p>
             ]]>
         </content>
     </entry>
